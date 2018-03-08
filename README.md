@@ -19,7 +19,7 @@
 
 但是随着18年初小游戏的崛起，微信小程序又开辟了第二个战场。[这个是后话](http://www.cocos.com/1314)。
 
-## 小程序技术栈:
+## 小程序技术栈
 
 微信框架  神似vue框架
 
@@ -31,9 +31,18 @@ js    推荐看[菜鸟教程js](http://www.runoob.com/js/js-tutorial.html)
 
 json  类似于webview的配置
 
+## 推荐公众号:
+
+知晓程序
+
 ## 开发
 
 [先从最重要的开始...](https://mp.weixin.qq.com/debug/wxadoc/product/index.html?t=201837)
 
 [再从最基本的开始...](https://mp.weixin.qq.com/)
 
+## tips
+[页面通信/传值](http://www.ifanr.com/minapp/830664)
+* 一些常量，可以交由 app.js 管理；需要持久化的量可以放在本地保存。
+* 涉及到下级页面或者模板元素的数据，可以通过传入参数的方式传入。
+* 后级页面可以通过获取堆栈里的页面对象快速修改上级的数据。
