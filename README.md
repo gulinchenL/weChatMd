@@ -19,9 +19,14 @@
 
 小程序技术栈:
 微信框架  神似vue框架
+
 wxhl  wx版HTML,用view标签代替div标签,任何地方都可以插入view标签,如果报错或不适用,那就寻找定制的其他标签,如radio,直接看框架/组件部分
+
 wxss  wx版css,和css一模一样,推荐看 [菜鸟教程CSS](http://www.runoob.com/css3/css3-tutorial.html)
+
 js    推荐看[菜鸟教程js](http://www.runoob.com/js/js-tutorial.html)
+
+json  类似于webview的配置
 
 [先从最简单的小程序后台开始...](https://mp.weixin.qq.com/)
 
