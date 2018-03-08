@@ -33,5 +33,7 @@ json  类似于webview的配置
 
 ## 开发
 
-[先从最简单的小程序后台开始...](https://mp.weixin.qq.com/)
+[先从最重要的开始...](https://mp.weixin.qq.com/debug/wxadoc/product/index.html?t=201837)
+
+[再从最基本的开始...](https://mp.weixin.qq.com/)
 
